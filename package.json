@@ -72,7 +72,7 @@
     "eslint-plugin-import": "^2.29.1",
     "lodash": "^4.17.21",
     "mocha": "^10.2.0",
-    "quicktype-core": "^23.0.81",
+    "quicktype-core": "^23.0.168",
     "ts-morph": "^21.0.1",
     "typescript": "^5.3.3"
   }
